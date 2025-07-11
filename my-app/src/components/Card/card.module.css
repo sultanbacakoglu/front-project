@@ -1,0 +1,12 @@
+.container{
+    width: 150px;
+    height: 150px;
+    border: solid black;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10;
+    border-radius: 10;
+    background-color: rgb(154, 113, 56);
+}
